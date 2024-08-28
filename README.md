@@ -2,7 +2,7 @@
 
 Welcome to the **Image Enhancement Techniques** repository! This project showcases various methods to enhance image quality using Python and OpenCV. These techniques are essential for improving image details, contrast, and preparing them for further analysis. 
 
-![Header Image](https://user-images.githubusercontent.com/your-image.png)
+
 
 ---
 
